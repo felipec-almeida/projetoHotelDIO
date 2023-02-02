@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\bin\Debug\net6.0\Desafio Hotel - DIO.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\bin\Debug\net6.0\Desafio Hotel - DIO.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\bin\Debug\net6.0\Desafio Hotel - DIO.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\bin\Debug\net6.0\Desafio Hotel - DIO.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\bin\Debug\net6.0\Desafio Hotel - DIO.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\refint\Desafio Hotel - DIO.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\Desafio Hotel - DIO.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Arquivos\Programação\Estudo DIO\Desafio Hotel - DIO\obj\Debug\net6.0\ref\Desafio Hotel - DIO.dll
